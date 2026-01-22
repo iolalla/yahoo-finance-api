@@ -7,12 +7,12 @@
 - Learn Go
 - Able to use this package on my other Go projects
 
-If you love this project, please consider giving it a ⭐.
+If you love this project, please consider giving  a ⭐ to [oscarli916](https://github.com/oscarli916/yahoo-finance-api).
 
 ## Installation
 
 ```
-go get github.com/oscarli916/yahoo-finance-api
+go get github.com/iolalla/yahoo-finance-api
 ```
 
 ## Example
@@ -23,7 +23,7 @@ package main
 import (
 	"fmt"
 
-	yfa "github.com/oscarli916/yahoo-finance-api"
+	yfa "github.com/iolalla/yahoo-finance-api"
 )
 
 func main() {
